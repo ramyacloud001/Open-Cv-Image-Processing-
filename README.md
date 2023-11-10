@@ -84,3 +84,5 @@ To run tests, run the following command
 
 For support, email ramyasri.adepu0107@gmail.com or join our Slack channel.
 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramyasri-adepu-a30958166/)
+
