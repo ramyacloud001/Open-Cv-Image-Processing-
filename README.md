@@ -64,21 +64,9 @@ These functions are just the tip of the iceberg when it comes to the capabilitie
 - Statistics 
 - OpenCV
 
-## Acknowledgements
-
-
 
  - [Pytorch basics](https://opencv.org/)
- ## Running Tests
 
-
-
-
-To run tests, run the following command
-
-```bash
-  since code was returned on Jupyter notebook we can take help of RUN option 
-```
 
 ## Support
 
