@@ -70,7 +70,7 @@ These functions are just the tip of the iceberg when it comes to the capabilitie
 
 ## Support
 
-For support, email ramyasri.adepu0107@gmail.com or join our Slack channel.
+For support, email ramyasri.adepu1601@gmail.com or join our Slack channel.
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramyasri-adepu-a30958166/)
 
